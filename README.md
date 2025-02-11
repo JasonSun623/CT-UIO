@@ -36,7 +36,7 @@ https://youtu.be/fxOcCRTWtT8
 # TODO
 - [ ] Release the code.
 - [x] Release the [arxiv preprint](https://arxiv.org/pdf/2502.06287).
-
+- [x] Release the dataset.
 <br>
 
 # Citation
