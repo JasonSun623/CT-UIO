@@ -31,7 +31,7 @@ Ultra-wideband (UWB) based positioning with fewer anchors has attracted signific
 
 # Qualitative Results
 ![image](https://github.com/JasonSun623/CT-UIO/blob/main/demo2%20(1).gif)  
-https://youtu.be/3mWVX8GR-JM
+https://youtu.be/fxOcCRTWtT8
 
 # TODO
 - [ ] Release the code.
